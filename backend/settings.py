@@ -88,6 +88,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://world-bank-data-visualization-dashb.vercel.app",
 ]
 CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOW_ALL_ORIGINS = True
 
 # REST Framework
 REST_FRAMEWORK = {
