@@ -8,8 +8,8 @@
 
 | Service | URL |
 |---------|-----|
-| Frontend (Vercel) | `https://your-app.vercel.app` |
-| Backend API (Render) | `https://your-api.onrender.com` |
+| Frontend (Vercel) | `https://world-bank-data-visualization-dashb.vercel.app` |
+| Backend API (Render) | `https://world-bank-data-visualization-dashboard-cjod.onrender.com` |
 
 **Demo credentials:** `demo` / `demo123`
 
@@ -177,6 +177,6 @@ All endpoints (except auth) require a logged-in session.
 
 ## 👤 Author
 
-Built as part of the **DeepQ-AI Full Stack Developer Intern** assignment.
+
 
 **Stack**: Django 5 · Django REST Framework · React 18 · Vite · Recharts · Axios · Framer Motion
